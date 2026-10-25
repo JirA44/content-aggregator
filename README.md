@@ -1,3 +1,13 @@
+## Français
+
+Projet d’agrégation de contenus. Cette page décrit le dépôt ; les sources, formats et commandes exacts sont à confirmer dans le code avant utilisation.
+
+## English
+
+A content aggregation project. This overview identifies the repository; confirm its exact sources, formats, and commands in the code before use.
+
+---
+
 # Web Content Summarizer
 
 A Python tool that aggregates and summarizes web content using AI. Features include:
